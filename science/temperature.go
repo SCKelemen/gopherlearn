@@ -1,5 +1,7 @@
 package temperature
 
+// all units as Float64
+type Unit float64
 
 // Temperature represents a SI unit of temperature (in kelvin, K)
 type Temperature Unit
