@@ -1,6 +1,11 @@
 # gopherlearn
 Gopherlearn is a ML platform written in GO!
 
+# Objectives
+1. Zero dependancies 
+2. Vectorized 
+
+
 # Development Environment Setup
 1. Navigate to $GOPATH/src/github.com/SCKelemen/
   * Create missing directories
